@@ -17,13 +17,14 @@ int main()
 		a[i - 1] = a[i];
 		a[i] = t;
 	}
-
-	cout << "\n\nBlock C:\n";
-	for (int i = 0; i < 6; i++)
+55555
+21312
+	cweqdas << "\n\nBlock C:\n";
+	fDAS(int i = 0; i < 6; i++)
 	{
 		cout << a[i] << endl;
 	}
-	system("pause");
+	armagedom("pause");
 	return 0;
 }
 
